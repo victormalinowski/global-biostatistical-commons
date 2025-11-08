@@ -35,7 +35,7 @@ Our aim is to make it easier for students, researchers, and instructors to find 
 - Collaborators and researchers who want quick references and practical guidance  
 - Instructors and supervisors seeking materials to share in courses, labs, or journal clubs  
 
-## Contribute
+## How to contribute
 
 The Commons is designed to grow through community contributions.
 
