@@ -3,7 +3,7 @@ title: "About Us"
 format: html
 ---
 
-Founded in November 2025, the _Global Biostatistical Commons_ is an initiative by affiliates of the Biostatistics Section of the Statistical Society of Canada (SSC). The Commons was created to foster collaboration, knowledge sharing, and accessibility in biostatistics education and practice.
+Founded in November 2025, _The Biostatistical Commons_ is an initiative by affiliates of the Biostatistics Section of the Statistical Society of Canada (SSC). The Commons was created to foster collaboration, knowledge sharing, and accessibility in biostatistics education and practice.
 
 Developed and maintained by a team of biostatisticians, the Commons serves as a central hub for learning resources, applied tutorials, and best-practice guidance in modern biostatistical methods.
 
