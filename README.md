@@ -6,7 +6,7 @@
 
 ## Overview  
 
-The **Biostatistical Commons** is an initiative of the **Biostatistics Section of the Statistical Society of Canada (SSC)**, founded in **November 2025**.  
+**The Biostatistical Commons** is an initiative by affiliates of the Biostatistics Section of the Statistical Society of Canada (SSC), founded in November 2025.  
 
 It serves as a shared space for learning, teaching, and reference materials in biostatistics — including tutorials, datasets, applications, and other educational resources.  
 
