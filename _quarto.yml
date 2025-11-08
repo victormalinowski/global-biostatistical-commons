@@ -44,6 +44,9 @@ book:
       Global Biostatistical Commons
     right: |
       Built with [Quarto](https://quarto.org)
+    background: "#2C3E50"   # footer background color
+    foreground: "#ECF0F1"   # footer text/link color
+    border: false           # remove top border
 
   # Optional: add GitHub link if/when the repo is public
   # repo-url: https://github.com/YOUR-ORG/YOUR-REPO
